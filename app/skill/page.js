@@ -5,7 +5,7 @@ const Skill = () => {
     <div className="flex-1 p-4 mx-12">
       <h2 className="text-center text-3xl text-sky-700 font-extrabold mb-6">My Skill</h2>
       <p className="text-2xl text-center mb-6">
-        Here's a breakdown of the technologies and tools I have experience with:
+        Here is a breakdown of the technologies and tools I have experience with:
       </p>
 
       <div className="flex justify-around items-stretch gap-6">
